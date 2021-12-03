@@ -1,0 +1,144 @@
+
+h1{
+	text-align: center;
+	color: #6F686D;
+	font-size: 20px;
+	font-weight: bold;
+	font-family: Francois One, sans-serif;
+	line-height: 100px;
+	letter-spacing: 5px;
+	}
+
+#box-blue{
+	background: #E0F2E9 ;
+	padding: 50px;
+	margin: 50px;
+}
+
+#Citation{
+	font-size: 40px;
+	text-align: center;
+	font-weight:bold;
+	line-height: 40px;
+	color: rgb(50,50,50);
+	font-family: 'Mr Dafoe', sudtipos;
+}
+
+#Auteur{
+	font-size: 15px;
+	text-align: center;
+	font-weight:bold;
+	line-height: 40px;
+	color: rgb(50,50,50);
+	font-family: Francois One, sans-serif;
+}
+
+#Photo {
+	width: 300px;
+	line-height: 20px;
+	padding: 30px;
+	padding-left: 0px;
+	border-radius: 350px;
+
+}
+.flex_box{
+	display: flex;
+	justify-content: center;
+}
+
+h2{
+	color:#011936;
+	font-size: 50px;
+	font-family: Francois One, sans-serif;
+	padding-bottom: 30px;
+}
+
+body{
+	color:  rgb(50, 50, 50);
+	font-family: 'Roboto', sans-serif;
+	background-color:#E0F2E9 ;
+	text-align: justify;
+	margin: 10px;
+	padding: 10px;
+}
+
+
+a{
+	text-decoration: none;
+	color: rgb(50,50,50);
+	 transition: color 0.3s ease;
+}
+a:hover{
+	text-decoration: none;
+	color: #FF784F ;
+	font-weight: bold;
+}
+.logo-white :hover{
+	text-decoration: none;
+	color: white;
+	font-weight: 300;
+}
+.logo-white{
+	text-decoration: none;
+	color: rgb(50, 50, 50);
+	transition: color 0.3 ease;
+	margin: 10px;
+	margin-bottom: 20px;
+}
+.h2-footer-margin{
+	margin: 30px;
+}
+p{
+	text-justify: justify;
+	padding-bottom: 10px;
+}
+
+.Réseaux-sociaux {
+	font-size: 40px;
+	display: flex;
+	margin-left: 60px;
+}
+.box-white{
+	background: white;
+    padding: 50px;
+    margin: 50px;
+    box-shadow: 0px 10px 30px rgba(0,0,0,0.1);
+    border-radius: 4px;
+}
+.box-orange{
+	background: #FF784F;
+	margin: 10px 0;
+  margin-left: -20px;
+  margin-right: -20px;
+  margin-bottom: -20px;
+}
+
+.style {
+    width: auto;
+    margin: 40px auto;
+    text-align: justify;
+
+}
+
+.text{
+	padding-bottom: 10px;
+}
+
+li{
+	padding-bottom: 15px;
+}
+
+#title_footer{
+	padding: 30px;
+	color: #6F686D;
+	font-size: 20px;
+	font-weight: bold;
+	font-family: Francois One, sans-serif;
+	line-height: 50px;
+	letter-spacing: 5px;
+}
+
+.title_bold {
+	font-size: 18px;
+	font-weight: 800;
+}
